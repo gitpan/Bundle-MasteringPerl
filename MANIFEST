@@ -1,0 +1,10 @@
+Changes
+lib/MasteringPerl.pm
+Makefile.PL
+MANIFEST
+README
+t/load.t
+t/pod.t
+t/pod_coverage.t
+examples/example.pm
+META.yml                                 Module meta-data (added by MakeMaker)

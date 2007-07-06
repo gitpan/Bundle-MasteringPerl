@@ -1,0 +1,16 @@
+$Id: README,v 2.1 2007/01/30 04:14:03 comdog Exp $
+
+This is a module Bundle, meaning that it merely lists modules
+to install. CPAN.pm handles this just fine.
+
+	perl -MCPAN -e 'install Bundle::MasteringPerl'
+
+After installing this bundle, you should have all of the modules
+necessary to play with any of the code in Mastering Perl:
+
+	http://www.oreilly.com/catalog/9780596527242/
+	http://www.pair.com/comdog/mastering_perl
+
+Enjoy, 
+
+brian d foy, bdfoy@cpan.org
